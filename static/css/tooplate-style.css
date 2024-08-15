@@ -22,11 +22,12 @@ body {
 a {
     text-decoration: none;
     transition: all 0.3s ease;
-    color: #BE1622;
+    color: black;
 }
 
 a:hover {
-    color: #F2B705;
+
+    color: #1622BE;
 }
 
 
@@ -89,6 +90,7 @@ address,
 .tm-about,
 .tm-contact {
     display: flex;
+    font-weight: bold;
 }
 
 .tm-contact {
@@ -330,7 +332,7 @@ address {
 }
 
 .tm-bgcolor-1 {
-    background-color: #e5e5e5;
+    background-color: #c5c5c5;
 }
 
 .tm-bgcolor-2 {
